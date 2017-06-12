@@ -337,6 +337,7 @@ table p {
 
 .text a:hover{
 	background-color: #7a7a7a;
+	color: orange;
 }
 
 /* LEARN MORE LINK */
@@ -355,6 +356,6 @@ table p {
 }
 
 .learn a:hover {
-	background-color: #7a7a7a;
+	background-color: orange;
 	color: #fff;
 }
