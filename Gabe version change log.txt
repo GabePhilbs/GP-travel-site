@@ -1,0 +1,16 @@
+Used bootstrap to centralize icons on index page
+
+moved all images to css
+
+set all external links to target=“_blank”
+
+fix Singapore artsicence text that was drawing a button around the text
+
+Changed the h1 in the heading of Singapore where it said “Singapore <br> City” to “Singapore<br><br>” 
+	I kept the <br> in order to keep the same layout as the other pages 
+
+created fixed translucent navbar
+
+
+
+
